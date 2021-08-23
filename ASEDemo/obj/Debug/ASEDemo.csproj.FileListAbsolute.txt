@@ -1,0 +1,10 @@
+C:\Users\Mhasa\source\repos\ASEDemo\ASEDemo\bin\Debug\ASEDemo.exe.config
+C:\Users\Mhasa\source\repos\ASEDemo\ASEDemo\bin\Debug\ASEDemo.exe
+C:\Users\Mhasa\source\repos\ASEDemo\ASEDemo\bin\Debug\ASEDemo.pdb
+C:\Users\Mhasa\source\repos\ASEDemo\ASEDemo\obj\Debug\ASEDemo.csprojAssemblyReference.cache
+C:\Users\Mhasa\source\repos\ASEDemo\ASEDemo\obj\Debug\ASEDemo.Properties.Resources.resources
+C:\Users\Mhasa\source\repos\ASEDemo\ASEDemo\obj\Debug\ASEDemo.csproj.GenerateResource.cache
+C:\Users\Mhasa\source\repos\ASEDemo\ASEDemo\obj\Debug\ASEDemo.csproj.CoreCompileInputs.cache
+C:\Users\Mhasa\source\repos\ASEDemo\ASEDemo\obj\Debug\ASEDemo.exe
+C:\Users\Mhasa\source\repos\ASEDemo\ASEDemo\obj\Debug\ASEDemo.pdb
+C:\Users\Mhasa\source\repos\ASEDemo\ASEDemo\obj\Debug\ASEDemo.Form1.resources
